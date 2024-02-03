@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../Project5-Ads Computer Repair"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Project-3 AdS Shopping"
+		},
+		{
+			"path": "../Project-4 Dami Restaruant"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Project-2 Ujwal Computer Institute"
+	}
+}
